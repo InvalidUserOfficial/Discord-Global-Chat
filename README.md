@@ -1,3 +1,6 @@
+# Hermes
+A cross server global chat for discord.
+---
 This Discord bot intentionally named after Hermes, the God of trade, is a project being developed to link multiple serves
 together by a global chat.
 
